@@ -108,11 +108,3 @@ Run the Jupyter notebook to view the data cleaning process and initial explorato
 1. Load `customer_shopping_data.csv` into your preferred SQL database engine (MySQL, PostgreSQL, or SQLite).
 
 2. Run the queries provided in `sql_queries.sql` to execute the business logic.
-
-**Contributing**
-
-Contributions, feedback, and pull requests are welcome. Feel free to open an issue or submit a PR.
-
-**License**
-
-This project is licensed under the MIT License.
